@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pakkaramai
+- 👋 Hi, I’m @Pakkaramai-Kiwi
 - 👀 I’m interested in art
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html
 - 📫 How to reach me ...
 
 <!---
